@@ -1,0 +1,14 @@
+.vscode/
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+local/
+
+# code coverage
+.coverage
+
+# backups for jupyter notebooks
+.ipynb_checkpoints
+
+# virtual environment
+ml_education_venv
